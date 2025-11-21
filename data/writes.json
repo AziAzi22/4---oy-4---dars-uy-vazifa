@@ -1,6 +1,10 @@
 [
-  {
-    "write": "Arthur Conan Doyle",
-    "book": "Sherlock Holmes"
-  }
+     {
+          "write": "Arthur Conan Doyle",
+          "book": "Sherlock Holmes"
+     },
+     {
+          "name": "John Ronald Reuel Tolkien",
+          "book": "The Lord of the Rings"
+     }
 ]

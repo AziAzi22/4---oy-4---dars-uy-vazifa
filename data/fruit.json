@@ -1,6 +1,10 @@
 [
-  {
-    "name": "banana",
-    "calorie": 89
-  }
+     {
+          "name": "banana",
+          "calorie": 89
+     },
+     {
+          "name": "ananas",
+          "calorie": 50
+     }
 ]

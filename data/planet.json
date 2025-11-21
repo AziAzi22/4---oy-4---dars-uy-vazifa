@@ -1,6 +1,10 @@
 [
-  {
-    "planet": "Mars",
-    "diametr": 6779
-  }
+     {
+          "planet": "Mars",
+          "diametr": 6779
+     },
+     {
+          "name": "Saturn",
+          "diametr": 116460
+     }
 ]

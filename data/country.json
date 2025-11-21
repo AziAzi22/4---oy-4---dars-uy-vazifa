@@ -1,6 +1,10 @@
 [
-  {
-    "country": "Andorra",
-    "capital": "Andorra la Vella"
-  }
+     {
+          "country": "Andorra",
+          "capital": "Andorra la Vella"
+     },
+     {
+          "country": "Canada",
+          "capital": "Ottawa"
+     }
 ]
